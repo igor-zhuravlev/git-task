@@ -2,8 +2,8 @@ firstFile line 1 upd
 firstFile line 2 upd
 firstFile line 3 another upd
 firstFile line 4 another upd
-firstFile line 5
-firstFile line 6
+firstFile line 5 upd from clone
+firstFile line 6 upd from clone
 firstFile line 7
 firstFile line 8
 firstFile line 9
