@@ -1,7 +1,7 @@
 firstFile line 1 upd
 firstFile line 2 upd
-firstFile line 3
-firstFile line 4
+firstFile line 3 another upd
+firstFile line 4 another upd
 firstFile line 5
 firstFile line 6
 firstFile line 7
