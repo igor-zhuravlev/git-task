@@ -1,5 +1,5 @@
-secondFile line 1
-secondFile line 2
+secondFile line 1 another upd
+secondFile line 2 another upd
 secondFile line 3
 secondFile line 4
 secondFile line 5
