@@ -6,5 +6,5 @@ firstFile line 5 upd from clone
 firstFile line 6 upd from clone
 firstFile line 7
 firstFile line 8
-firstFile line 9
+firstFile line 9 upd another from base
 firstFile line 10
